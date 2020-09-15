@@ -6,13 +6,17 @@
 - MaterialUI
 - CSS
 
-See code gif: https://media.giphy.com/media/U2GDCUEMihgnnFRkVJ/giphy.gif
-
 ![](https://media.giphy.com/media/U2GDCUEMihgnnFRkVJ/giphy.gif) 
 
-Checkout project preview: https://youtu.be/qQkXSAaQoP4
-Project deployed at: http://hurt-purpose.surge.sh/ 
+![](https://media.giphy.com/media/kfF3IA8uznDQ0izlbM/giphy.gif) 
 
-Things to do better: resize components to better fit screen size (smaller images, items, etc.)
+## Checkout project preview: 
+https://youtu.be/qQkXSAaQoP4
+
+## Project deployed at: 
+http://hurt-purpose.surge.sh/ 
+
+## Things to do better: 
+- resize components to better fit screen size (smaller images, items, etc.)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
