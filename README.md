@@ -6,7 +6,7 @@
 - MaterialUI
 - CSS
 
-![](https://media.giphy.com/media/U2GDCUEMihgnnFRkVJ/giphy.gif) 
+![](https://github.com/SimGri-io/Cafe-web/blob/master/SimGri-io-Cafe-web-A-website-cre.gif) 
 
 ![](https://github.com/SimGri-io/Cafe-web/blob/master/React-App-and-3-more-pages-Profi.gif) 
 
